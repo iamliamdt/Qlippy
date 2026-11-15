@@ -1,0 +1,19 @@
+[general]
+name=Qlippy
+qgisMinimumVersion=3.44
+qgisMaximumVersion=4.99
+supportsQt6=True
+description=Inspired by nothing in particular, Qlippy is here to maybe help you with everything you do in QGIS.
+about=He just wants to help.
+version=0.5.0
+author=Liam Downs-Tepper
+email=liam.downs-tepper@univie.ac.at
+homepage=https://github.com/iamliamdt/qlippy
+repository=https://github.com/iamliamdt/qlippy
+tracker=https://github.com/iamliamdt/qlippy/issues
+tags=assistant,help,tips,fun,paperclip,education,crs,beginner,haunting,annoying,guidance,goofy
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
+changelog=0.5.1 - First public upload
